@@ -1,0 +1,11 @@
+Запуск вручную граббера:
+
+Запустить MongoDb сервис
+	для Windows: mongod --dbpath C:/mongo
+	для Linux: не нужно
+
+Запустить процесс Node(в коммандной строке находясь в папке Server) node Server
+
+Запустить каспер: для запуска в папке с этим файлом(Casper.js) пишем casperjs Casper.js   phantom не надо запускать
+
+Смена кодировки на UTF-8 в CMD Win:chcp 65001
